@@ -18,6 +18,7 @@ import com.james.login.R
 // 2nd push comment
 // 3rd push comment
 // 4th push comment
+// test merge
 class LoginActivity : AppCompatActivity() {
 
     private lateinit var loginViewModel: LoginViewModel
