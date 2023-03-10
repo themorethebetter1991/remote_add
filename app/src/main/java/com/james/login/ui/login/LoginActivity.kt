@@ -15,7 +15,7 @@ import android.widget.Toast
 import com.james.login.databinding.ActivityLoginBinding
 
 import com.james.login.R
-
+// 2nd push comment
 class LoginActivity : AppCompatActivity() {
 
     private lateinit var loginViewModel: LoginViewModel
